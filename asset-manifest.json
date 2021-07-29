@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myrealreactportfolio/static/css/main.ba02d90f.chunk.css",
+    "main.js": "/myrealreactportfolio/static/js/main.d9168f13.chunk.js",
+    "main.js.map": "/myrealreactportfolio/static/js/main.d9168f13.chunk.js.map",
+    "runtime-main.js": "/myrealreactportfolio/static/js/runtime-main.4273992f.js",
+    "runtime-main.js.map": "/myrealreactportfolio/static/js/runtime-main.4273992f.js.map",
+    "static/css/2.455652b6.chunk.css": "/myrealreactportfolio/static/css/2.455652b6.chunk.css",
+    "static/js/2.36537676.chunk.js": "/myrealreactportfolio/static/js/2.36537676.chunk.js",
+    "static/js/2.36537676.chunk.js.map": "/myrealreactportfolio/static/js/2.36537676.chunk.js.map",
+    "index.html": "/myrealreactportfolio/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/myrealreactportfolio/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.ba02d90f.chunk.css.map": "/myrealreactportfolio/static/css/main.ba02d90f.chunk.css.map",
+    "static/js/2.36537676.chunk.js.LICENSE.txt": "/myrealreactportfolio/static/js/2.36537676.chunk.js.LICENSE.txt",
+    "static/media/Cyberdyne.704cf6b1.jpg": "/myrealreactportfolio/static/media/Cyberdyne.704cf6b1.jpg",
+    "static/media/Lightboxes.cba96963.jpg": "/myrealreactportfolio/static/media/Lightboxes.cba96963.jpg",
+    "static/media/Neurons.e2fb2755.png": "/myrealreactportfolio/static/media/Neurons.e2fb2755.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4273992f.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.36537676.chunk.js",
+    "static/css/main.ba02d90f.chunk.css",
+    "static/js/main.d9168f13.chunk.js"
+  ]
+}
