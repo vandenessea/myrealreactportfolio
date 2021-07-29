@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+
+.wrapper {
+  position: relative;
+}
+
+.absolute-card {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h2 {
+  color: white;
+  font-weight: bolder;
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  color: white;
+  font-weight: bolder;
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .Navbar {
+  background-color: black;
+} */
